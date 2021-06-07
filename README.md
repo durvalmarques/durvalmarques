@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Durval!
 
 - 🔭 I’m currently working on Engecompany.
-- 📚 I’m currently learning C# and Javascript.
+- 📚 I’m currently learning C#, HTML5, CSS3 and Javascript.
 - ⚡ Fun facts: I love to travel.
 
 ##
