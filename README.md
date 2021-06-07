@@ -1,33 +1,28 @@
-### Hi there 👋
+### Olá! Eu sou o Durval!
 
 - 🔭 I’m currently working on Engecompany.
 - 📚 I’m currently learning C# and Javascript.
 - ⚡ Fun facts: I love to travel.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvalmarques/)](https://www.linkedin.com/in/durvalmarques/)
-[![Gmail Badge](https://img.shields.io/badge/-durvalfpm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:durvalfpm@gmail.com)](mailto:durvalfpm@gmail.com)
+##
 
-<!--
-**durvalmarques/durvalmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/durvalmarques">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=durvalmarques&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvalmarques&layout=compact&langs_count=16&theme=gotham&include_all_commits=true&count_private=true"/>
+<div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Durval-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Durval-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Durval-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-🎓 I'm a Computer Scientist.
-🤓 I love to learn and teach.
-🔎 I'm interested in UI/UX.
-📚 I’m currently learning React and Node.
-⚡ Fun facts: I'm vegetarian and I love to travel.
-📫 How to reach me:
-https://www.linkedin.com/in/durvalmarques/
-durvalfpm@gmail.com
-
--->
+##
+ 
+<div> 
+  <a href = "mailto: durvalfpm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/durvalmarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
